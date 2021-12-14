@@ -23,6 +23,78 @@ switch(int.Parse(arrg[1])){
         Console.WriteLine("Day 07 Part 1: " + Day07.Part1());
         Console.WriteLine("Day 07 Part 2: " + Day07.Part2());
         break;
+    case 8: 
+        Console.WriteLine("Day 08 Part 1: " + Day08.Part1());
+        Console.WriteLine("Day 08 Part 2: " + Day08.Part2());
+        break;
+    case 9: 
+        Console.WriteLine("Day 09 Part 1: " + Day09.Part1());
+        Console.WriteLine("Day 09 Part 2: " + Day09.Part2());
+        break;
+    case 10: 
+        Console.WriteLine("Day 10 Part 1: " + Day10.Part1());
+        Console.WriteLine("Day 10 Part 2: " + Day10.Part2());
+        break;
+    case 11: 
+        Console.WriteLine("Day 11 Part 1: " + Day11.Part1());
+        Console.WriteLine("Day 11 Part 2: " + Day11.Part2());
+        break;
+    case 12: 
+        Console.WriteLine("Day 12 Part 1: " + Day12.Part1());
+        Console.WriteLine("Day 12 Part 2: " + Day12.Part2());
+        break;
+    case 13: 
+        Console.WriteLine("Day 13 Part 1: " + Day13.Part1());
+        Console.WriteLine("Day 13 Part 2: " + Day13.Part2());
+        break;
+    case 14: 
+        Console.WriteLine("Day 14 Part 1: " + Day14.Part1());
+        Console.WriteLine("Day 14 Part 2: " + Day14.Part2());
+        break;
+    case 15: 
+        Console.WriteLine("Day 15 Part 1: " + Day15.Part1());
+        Console.WriteLine("Day 15 Part 2: " + Day15.Part2());
+        break;
+    case 16: 
+        Console.WriteLine("Day 16 Part 1: " + Day16.Part1());
+        Console.WriteLine("Day 16 Part 2: " + Day16.Part2());
+        break;
+    case 17: 
+        Console.WriteLine("Day 17 Part 1: " + Day17.Part1());
+        Console.WriteLine("Day 17 Part 2: " + Day17.Part2());
+        break;
+    case 18: 
+        Console.WriteLine("Day 18 Part 1: " + Day18.Part1());
+        Console.WriteLine("Day 18 Part 2: " + Day18.Part2());
+        break;
+    case 19: 
+        Console.WriteLine("Day 19 Part 1: " + Day19.Part1());
+        Console.WriteLine("Day 19 Part 2: " + Day19.Part2());
+        break;
+    case 20: 
+        Console.WriteLine("Day 20 Part 1: " + Day20.Part1());
+        Console.WriteLine("Day 20 Part 2: " + Day20.Part2());
+        break;
+    case 21: 
+        Console.WriteLine("Day 21 Part 1: " + Day21.Part1());
+        Console.WriteLine("Day 21 Part 2: " + Day21.Part2());
+        break;
+    case 22: 
+        Console.WriteLine("Day 22 Part 1: " + Day22.Part1());
+        Console.WriteLine("Day 22 Part 2: " + Day22.Part2());
+        break;
+    case 23: 
+        Console.WriteLine("Day 23 Part 1: " + Day23.Part1());
+        Console.WriteLine("Day 23 Part 2: " + Day23.Part2());
+        break;
+    case 24: 
+        Console.WriteLine("Day 24 Part 1: " + Day24.Part1());
+        Console.WriteLine("Day 24 Part 2: " + Day24.Part2());
+        break;
+    case 25: 
+        Console.WriteLine("Day 25 Part 1: " + Day25.Part1());
+        Console.WriteLine("Day 25 Part 2: " + Day25.Part2());
+        break;
     default:
         Console.WriteLine("no input given");
         break;
